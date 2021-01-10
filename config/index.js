@@ -5,9 +5,9 @@ module.exports = {
   siteShortTitle: "avi mamenko.", // Used as logo text in header, footer, and splash screen
   siteDescription:
     "A portfolio for Avi Mamenko, a New York-based web developer",
-  siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
+  siteUrl: "https://amamenko.github.io",
   siteLanguage: "en_US",
-  siteIcon: "./favicon.ico",
+  siteIcon: "/favicon.ico",
   seoTitleSuffix: "Avi Mamenko -  New York-Based Web Dev", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
 
   // -- THEME SETTINGS -----
