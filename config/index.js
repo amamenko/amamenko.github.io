@@ -7,7 +7,7 @@ module.exports = {
     "A portfolio for Avi Mamenko, a New York-based web developer",
   siteUrl: "https://amamenko.github.io",
   siteLanguage: "en_US",
-  siteIcon: "/favicon.ico",
+  siteIcon: "docs/favicon-32x32.png",
   seoTitleSuffix: "Avi Mamenko -  New York-Based Web Dev", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
 
   // -- THEME SETTINGS -----
