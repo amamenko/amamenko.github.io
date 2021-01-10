@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://amamenko.github.io/sitemap.xml
-Host: https://amamenko.github.io
