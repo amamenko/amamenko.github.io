@@ -1,4 +1,5 @@
 {
   "main.js": "render-page.js",
-  "main.js.map": "render-page.js.map"
+  "main.js.map": "render-page.js.map",
+  "static/GatsbyMonogram.png": "static/GatsbyMonogram-05712cc0881a7e09b19bf39b77fdd28a.png"
 }
